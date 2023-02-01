@@ -23,3 +23,16 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HNT&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  
+## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+
+## Have a Smiley Day...😃 :<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
