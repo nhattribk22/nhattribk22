@@ -1,8 +1,9 @@
 # 💫About Me : <h1 align="center">Hey there, I'm Ho Nhat Tri<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 💁👉I'm a computer scientist. 
 - I have skills searching for technical data and information.
+
 🚀😉Interests:
--Artificial Intelligence
+- Artificial Intelligence
 - Research Astronomy and Cosmography
 
 ## 🌐Socials
