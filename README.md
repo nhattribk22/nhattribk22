@@ -1,13 +1,7 @@
 # 💫About Me : <h1 align="center">Hey there, I'm Ho Nhat Tri<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-💁👉I'm a computer scientist. 
-- I have skills searching for technical data and information.
+<p>💁👉As a computer scientist, I am passionate about exploring new technologies and developing innovative solutions to complex problems. With a strong background in computer science, I have gained expertise in a variety of programming languages, software development methodologies, and data analysis techniques.</p>
+<img width="40%" align="right" alt="Github Header" src="images/git-about.svg" />
 
-🚀😉Interests:
-- Artificial Intelligence
-- Research Astronomy and Cosmography
-
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nhattribk22/) 
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
