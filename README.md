@@ -1,7 +1,7 @@
 # 💫About Me : <h1 align="center">Hey there, I'm Ho Nhat Tri<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Currently, I am a computer science major in college.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/da0accfcc31aa6c62a8d2c7ce785fd454451e39c34fdaf0e1b948c378b59e691/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3262653163655f38363435363739303038343534313865626664363165323937363337343634647e6d76322e676966">
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/carlostocat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhattribk22&label=Profile%20views&color=0e75b6&style=flat" alt="nhattribk22" /> </p>
 👉 As a computer science student, I am passionate about exploring new technologies and developing innovative solutions to complex problems. With the knowledge I have gained, I am proficient in multiple programming languages, software development methodologies, and data analysis techniques. My enthusiasm drives me to continually expand my knowledge and skills in this dynamic field. <br /> 
