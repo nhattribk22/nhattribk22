@@ -1,4 +1,4 @@
-# 💫About Me : <h1 align="center">Hey there, I'm Ho Nhat Tri<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# 💫About Me : <h1 align="center">Hey there, I'm Tri<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Currently, I am a computer science major in college.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/carlostocat.gif">
