@@ -1,5 +1,5 @@
 # 💫About Me : <h1 align="center">Hey there, I'm Tri<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Currently, I am a computer science major in college.</h3>
+<h3 align="center">Currently, I'm a computer science undergraduate student at HCMUT-VNUHCM.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/carlostocat.gif">
 
